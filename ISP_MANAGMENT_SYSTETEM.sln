@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP_MANAGMENT_SYSTETEM", "ISP_MANAGMENT_SYSTETEM\ISP_MANAGMENT_SYSTETEM.csproj", "{046219F6-0E9C-4D79-A198-4444299E9978}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup ISP MANAGMENT SYSTEM", "Setup ISP MANAGMENT SYSTEM\Setup ISP MANAGMENT SYSTEM.vdproj", "{028D44CB-97C5-4DEF-B8D3-C6781ED19277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046219F6-0E9C-4D79-A198-4444299E9978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046219F6-0E9C-4D79-A198-4444299E9978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046219F6-0E9C-4D79-A198-4444299E9978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046219F6-0E9C-4D79-A198-4444299E9978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028D44CB-97C5-4DEF-B8D3-C6781ED19277}.Debug|Any CPU.ActiveCfg = Debug
+		{028D44CB-97C5-4DEF-B8D3-C6781ED19277}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAF46AAF-B06F-4622-88FD-F33DA13E4ECD}
+	EndGlobalSection
+EndGlobal
